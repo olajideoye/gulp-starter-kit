@@ -1,0 +1,27 @@
+{
+  "name": "frontend-starter-kit",
+  "version": "0.0.1",
+  "description": "A simple starter kit for front-end projects based on my experience as a front-end web developer.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olajideoye/frontend-starter-kit.git"
+  },
+  "keywords": [
+    "starter",
+    "kit",
+    "starter-kit",
+    "front-end",
+    "web",
+    "development"
+  ],
+  "author": "Ọlájídé Oyè <olajide.oye@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olajideoye/frontend-starter-kit/issues"
+  },
+  "homepage": "https://github.com/olajideoye/frontend-starter-kit#readme"
+}
