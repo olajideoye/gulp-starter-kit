@@ -4,6 +4,7 @@
   "description": "A simple starter kit for front-end projects based on my experience as a front-end web developer.",
   "main": "gulpfile.js",
   "scripts": {
+    "start": "./node_modules/.bin/gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,5 +24,22 @@
   "bugs": {
     "url": "https://github.com/olajideoye/frontend-starter-kit/issues"
   },
-  "homepage": "https://github.com/olajideoye/frontend-starter-kit#readme"
+  "homepage": "https://github.com/olajideoye/frontend-starter-kit#readme",
+  "dependencies": {
+    "autoprefixer": "^6.7.7",
+    "bower": "^1.8.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cli": "^1.2.2",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-environments": "^0.1.2",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-less": "^3.3.0",
+    "gulp-postcss": "^6.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "path": "^0.12.7",
+    "rimraf": "^2.6.1"
+  }
 }
