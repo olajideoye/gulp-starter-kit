@@ -1,6 +1,6 @@
 {
   "name": "frontend-starter-kit",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple starter kit for front-end projects based on my experience as a front-end web developer.",
   "main": "gulpfile.js",
   "scripts": {
