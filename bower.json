@@ -1,6 +1,6 @@
 {
-  "name": "frontend-starter-kit",
-  "description": "A simple starter kit for front-end projects based on my experience as a front-end web developer.",
+  "name": "gulp-starter-kit",
+  "description": "A simple starter kit with reusable functions for front-end projects using Gulp.",
   "main": "gulpfile.js",
   "authors": [
     "Ọlájídé Oyè <olajide.oye@gmail.com>"
@@ -14,7 +14,7 @@
     "web",
     "development"
   ],
-  "homepage": "https://github.com/olajideoye/frontend-starter-kit",
+  "homepage": "https://github.com/olajideoye/gulp-starter-kit",
   "private": true,
   "ignore": [
     "**/.*",
