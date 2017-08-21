@@ -1,7 +1,7 @@
 {
-  "name": "frontend-starter-kit",
-  "version": "0.1.0",
-  "description": "A simple starter kit for front-end projects based on my experience as a front-end web developer.",
+  "name": "gulp-starter-kit",
+  "version": "0.1.1",
+  "description": "A simple starter kit with reusable functions for front-end projects using Gulp.",
   "main": "gulpfile.js",
   "scripts": {
     "start": "./node_modules/.bin/gulp",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olajideoye/frontend-starter-kit.git"
+    "url": "git+https://github.com/olajideoye/gulp-starter-kit.git"
   },
   "keywords": [
     "starter",
@@ -22,9 +22,9 @@
   "author": "Ọlájídé Oyè <olajide.oye@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/olajideoye/frontend-starter-kit/issues"
+    "url": "https://github.com/olajideoye/gulp-starter-kit/issues"
   },
-  "homepage": "https://github.com/olajideoye/frontend-starter-kit#readme",
+  "homepage": "https://github.com/olajideoye/gulp-starter-kit#readme",
   "dependencies": {
     "autoprefixer": "^6.7.7",
     "bower": "^1.8.0",
